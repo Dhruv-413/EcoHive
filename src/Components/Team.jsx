@@ -1,7 +1,7 @@
-import dhruv from '../assets/dhruv.jpg'
-import sid from '../assets/Sid.jpg'
-import arnav from '../assets/arnav.jpeg'
-import patil from '../assets/patil.jpeg'
+import dhruv from '../../public/assets/dhruv.jpg'
+import sid from '../../public/assets/Sid.jpg'
+import arnav from '../../public/assets/arnav.jpeg'
+import patil from '../../public/assets/patil.jpeg'
 
 const Team = () => {
     return (

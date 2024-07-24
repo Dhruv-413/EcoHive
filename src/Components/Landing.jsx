@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import PropTypes from "prop-types";
-import slide1 from "../assets/slide-1.jpg";
-import slide2 from "../assets/slide-2.jpg";
-import slide3 from "../assets/slide-3.jpg";
-import slide4 from "../assets/slide-4.jpg";
-import slide5 from "../assets/slide-5.jpg";
+import slide1 from "../../public/assets/slide-1.jpg";
+import slide2 from "../../public/assets/slide-2.jpg";
+import slide3 from "../../public/assets/slide-3.jpg";
+import slide4 from "../../public/assets/slide-4.jpg";
+import slide5 from "../../public/assets/slide-5.jpg";
 
 const styles = `
   .slider-wrapper {

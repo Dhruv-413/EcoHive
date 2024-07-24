@@ -3,8 +3,7 @@ import NavService from "../Components/NavService";
 import TimelineOrg from "../Components/timelineorg";
 import TimelineIndi from "../Components/timelineindi";
 import HeroSection from "../Components/hero";
-import water from "../assets/water.jpg"
-import ContentSection from "../Components/Content";
+import water from "../../public/assets/water.jpg"
 import Footer from '../Components/Footer'
 
 

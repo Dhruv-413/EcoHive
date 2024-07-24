@@ -1,8 +1,7 @@
 import NavService from "../Components/NavService";
 import TimelineOrg from "../Components/timelineorg";
 import TimelineIndi from "../Components/timelineindi";
-import tree from "../assets/tree.jpg";
-// import ContentSection from "../Components/Content";
+import tree from "../../public/assets/tree.jpg";
 import HeroSection from "../Components/hero";
 import Footer from '../Components/Footer'
 

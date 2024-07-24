@@ -1,4 +1,4 @@
-import mission from "../assets/mission.jpg";
+import mission from "../../public/assets/mission.jpg"
 
 const About = () => {
   return (

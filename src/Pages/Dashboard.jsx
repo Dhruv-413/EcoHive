@@ -3,7 +3,6 @@ import { Sidebar } from "../Components/Sidebar";
 import { Transaction } from "../Components/Transaction";
 import { Credits } from "../Components/Credits";
 import { Table } from "../Components/Table";
-import {OrderHistory} from "../Components/OrderHistory";
 import {Events} from "../Components/Events";
 import {Settings} from "../Components/Settings";
 
@@ -24,8 +23,6 @@ export const Dashboard = ({entity}) => {
             </div>
           </>
         );
-      case "orders":
-        return <OrderHistory />;
       case "events":
         return <Events />;
       case "settings":

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import ecoHiveLogo from '../assets/EcoHiveWhite.png';
+import ecoHiveLogo from '../../public/assets/EcoHiveWhite.png';
 import ContactModal from '../Components/Contactus';
 
 const Footer = () => {

@@ -1,8 +1,7 @@
 
 import Timeline from "../Components/timelineorg";
 import HeroSection from "../Components/hero"
-import mangrove from "../assets/mangrove.jpg"
-import ContentSection from "../Components/Content";
+import mangrove from "../../public/assets/mangrove.jpg"
 import NavService from "../Components/NavService";
 import Footer from "../Components/Footer"
 

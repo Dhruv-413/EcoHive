@@ -12,7 +12,7 @@ import { useState, useEffect } from "react";
 import { firebaseAuth, useFirebase } from "../context/firebase";
 import { onAuthStateChanged } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
-import logo from "../assets/EcoHiveWhite.png";
+import logo from "../../public/assets/EcoHiveWhite.png";
 import ContactModal from "../Components/Contactus";
 import { MdHomeRepairService } from "react-icons/md";
 import { AiOutlineDown, AiOutlineUp } from 'react-icons/ai';

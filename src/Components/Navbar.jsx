@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
-import ecoHiveLogo from '../assets/EcoHive.png';
-import ecoHiveLogoWhite from '../assets/EcoHiveWhite.png'; // White version of EcoHive logo
+import ecoHiveLogo from '../../public/assets/EcoHive.png';
+import ecoHiveLogoWhite from '../../public/assets/EcoHiveWhite.png'; // White version of EcoHive logo
 import { useNavigate } from 'react-router-dom'; // Assuming Modal component is imported correctly
 
 const Navbar = () => {

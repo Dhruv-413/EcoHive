@@ -1,7 +1,7 @@
 
 import NavService from "../Components/NavService";
 import Timeline from "../Components/timelineorg";
-import agri from "../assets/agri.jpg"
+import agri from "../../public/assets/agri.jpg"
 import HeroSection from "../Components/hero";
 import ContentSection from "../Components/Content";
 import Footer from "../Components/Footer"

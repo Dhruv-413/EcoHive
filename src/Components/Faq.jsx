@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ecohive from "../assets/faq.jpg";
+import ecohive from "../../public/assets/faq.jpg";
 
 const Faq = () => {
     const [show, setShow] = useState(false);

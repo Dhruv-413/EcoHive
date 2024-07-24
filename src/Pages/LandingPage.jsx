@@ -4,7 +4,7 @@ import Navbar from '../Components/Navbar';
 import Footer from "../Components/Footer";
 import FAQ from "../Components/Faq";
 import ComponentsSection from "../Components/Features";
-import Landing from "../Components/Lading";
+import Landing from "../Components/Landing";
 
 export const LandingPage = () =>{
     return (

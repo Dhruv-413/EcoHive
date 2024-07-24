@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
-import ecoHiveLogo from '../assets/EcoHive.png';
-import ecoHiveLogoWhite from '../assets/EcoHiveWhite.png'; // Add a white version of the logo
+import ecoHiveLogo from '../../public/assets/EcoHive.png';
+import ecoHiveLogoWhite from '../../public/assets/EcoHiveWhite.png'; // Add a white version of the logo
 
 const NavService = () => {
   const [isScrolled, setIsScrolled] = useState(false);
